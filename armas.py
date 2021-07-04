@@ -1,0 +1,1 @@
+espada_inicial = {1,2}
